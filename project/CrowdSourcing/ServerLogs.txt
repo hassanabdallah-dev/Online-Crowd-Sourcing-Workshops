@@ -1,0 +1,5 @@
+Laravel development server started: http://127.0.0.1:8000
+PHP 7.3.12 Development Server started at Thu Mar  5 21:02:23 2020
+Listening on http://127.0.0.1:8000
+Document root is C:\Users\Hussein\projectPHP\CrowdSourcing\public
+Press Ctrl-C to quit.

@@ -1,0 +1,10 @@
+grant select on `crowdcrowd`.`userhistory` TO participant@localhost;
+grant select on `crowdcrowd`.`workshop` TO participant@localhost;
+grant select on `crowdcrowd`.`group` TO participant@localhost;
+grant select, insert, delete on `crowdcrowd`.`users_group` TO participant@localhost;
+grant select, insert, update on `crowdcrowd`.`ideas` TO participant@localhost;
+grant select on `crowdcrowd`.`users` TO participant@localhost;
+grant select on `crowdcrowd`.`preferences` TO participant@localhost;
+grant select, insert on `crowdcrowd`.`idea_participant` TO participant@localhost;
+grant select, insert on `crowdcrowd`.`participant_workshop` TO participant@localhost;
+grant select, insert on `crowdcrowd`.`participant_idea_original` TO participant@localhost;
